@@ -1,4 +1,4 @@
-Module.exports = {
+module.exports = {
   /**
    *  Returns back some attributes based on whether the links is activeor a parent of and active item
    * @param {String} itemUrl
