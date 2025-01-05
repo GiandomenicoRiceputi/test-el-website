@@ -15,6 +15,10 @@ primaryCTA:
   summary: "Let me help you make your accessible website"
   buttonText: "Hello Baby"
   buttonUrl: "https://piccalil.li/"
+
+featuredWork:
+  title: "Selected work"
+  summary: "Some stuff that should give you an idea of what we're all about."  
 ---
 
 this is pretty rad right ?
